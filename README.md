@@ -1,2 +1,2 @@
-# example
-example repository
+# notes
+notes repository
